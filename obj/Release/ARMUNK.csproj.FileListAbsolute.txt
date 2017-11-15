@@ -1,0 +1,7 @@
+D:\Projects\C#\ARMUNK\ARMUNK\bin\Release\ARMUNK.exe.config
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Release\ARMUNK.Email_Form.resources
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Release\ARMUNK.Form1.resources
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Release\ARMUNK.Properties.Resources.resources
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Release\ARMUNK.csproj.GenerateResource.Cache
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Release\ARMUNK.exe
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Release\ARMUNK.pdb

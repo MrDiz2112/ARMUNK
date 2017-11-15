@@ -1,0 +1,10 @@
+D:\Projects\C#\ARMUNK\ARMUNK\bin\Debug\ARMUNK.exe.config
+D:\Projects\C#\ARMUNK\ARMUNK\bin\Debug\ARMUNK.exe
+D:\Projects\C#\ARMUNK\ARMUNK\bin\Debug\ARMUNK.pdb
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Debug\ARMUNK.csprojResolveAssemblyReference.cache
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Debug\ARMUNK.Form1.resources
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Debug\ARMUNK.Properties.Resources.resources
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Debug\ARMUNK.csproj.GenerateResource.Cache
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Debug\ARMUNK.exe
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Debug\ARMUNK.pdb
+D:\Projects\C#\ARMUNK\ARMUNK\obj\Debug\ARMUNK.Email_Form.resources
